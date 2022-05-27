@@ -1,0 +1,72 @@
+#div1{
+
+    width: 30%;
+    height: auto;
+    background-color: cornflowerblue;
+    position: absolute;
+    border-radius: 10px;
+    left: 35%;
+    top: 25%;
+
+
+}
+
+#vize1{
+
+width: 150px;
+height: 30px;
+margin-left: 40px;
+margin-top: 20px;
+
+
+}
+
+#vize2{
+
+    width: 150px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+
+}
+
+#final{
+
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+
+
+}
+
+
+
+#btn{
+width: 250px;
+height: 30px;
+margin-left: 90px;
+margin-bottom: 10px;
+
+}
+
+#div2{
+
+width: 50px;
+height: 50px;
+background-color: white;
+margin: auto;
+display: none;
+font-size: 32px;
+text-align: center;
+color: black;
+
+
+}
+
+body{
+
+background-image: url(http://www.egonomik.com/wp-content/uploads/2012/05/route-66-road-wallpaper.jpg);
+
+}
